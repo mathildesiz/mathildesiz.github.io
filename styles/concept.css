@@ -1,0 +1,20 @@
+.concept {
+	background-color: rgb(210, 219, 235);
+	padding: 3%;
+}
+
+#blue-button {
+	font-family: Merriweather Sans Medium;
+	letter-spacing: 1px;
+	color: rgb(38, 107, 124);
+	font-size: 25px;
+	margin-top: 20px;
+	background-color: rgb(245, 245, 245);
+	padding: 16px;
+	border-radius: 7px;
+	width: 450px;
+}
+
+#blue-button:hover {
+	color: rgb(210, 219, 235);
+}

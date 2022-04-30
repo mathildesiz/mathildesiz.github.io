@@ -1,0 +1,23 @@
+.menu {
+  background-color: rgb(245, 245, 245); 
+  overflow: hidden;
+  text-align: center;
+ }
+
+.menu a {
+  float: left;
+  color: rgb(38, 107, 124);
+  text-align: center;
+  padding: 24px 26px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.menu a:hover {
+  background-color: rgb(210, 219, 235); 
+  color: rgb(38, 107, 124); 
+}
+
+.menu a.active {
+  background-color: rgb(245, 245, 245); 
+}
